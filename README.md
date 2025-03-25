@@ -16,7 +16,7 @@ Install dependencies with 'npm install', and then run npm run dev.
 
 ## Usage
 
-Visit the link here to view my portfolio: 
+Visit the link here to view my portfolio: https://nat-react-portfolio.netlify.app/
 
 ## License
 
